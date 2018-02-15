@@ -1,0 +1,15 @@
+body {
+    background-color: #333;
+}
+
+#hot {
+background-color: #eee;
+height: 400px;
+width: 400px;
+margin: 100px auto;
+}
+
+h3 {
+    color: #fff;
+    text-align: center;
+}
